@@ -4,14 +4,21 @@ learning models, and data science. Hands-on projects in asset management, data g
 predictive models, image classification, etc
 #
 ### [DBT, Snowflake ELT, and Apache Airflow Implementation](https://github.com/dvaled/dbt-snowflake-apache-airflow)
-Overview: The project is organized to handle:
-- **Staging**: Transformation of raw source data to prepare it for analytics.
-- **Data Marts**: Aggregated and curated tables to support business intelligence and reporting.
-- **Testing and Validation**: Custom tests for data quality assurance.
-- **Macros**: Reusable SQL code blocks to standardize calculations and transformations.
+Overview:
+- Snowflake RBAC, Implemented role-based access control to ensure secure, efficient access to data through warehouses, databases, and schemas.
+- dbt modeling: Built source, staging, and analytics models to transform raw data into fact tables and data marts, supporting departmental analytics needs. 
+- Created aggregated tables for reporting, enabling stakeholders to access key metrics and insights for decision-making
+- Automated ETL processes with Airflow, scheduling dbt transformations and ensuring timely, accurate data refreshes.
 
-**Technology use**: Python, SQL, DBT, Snowflake, Apache Airflow, Docker, Astronomer cosmos
+**Technology used**: Python, SQL, DBT, Snowflake, Apache Airflow, Docker, Astronomer cosmos
 
+### [DBT, Snowflake Data transformatin product performance usecase](https://github.com/dvaled/dbt-snowflake-ETL-product-performance-usecase)
+Overview:
+- Snowflake RBAC, Implemented role-based access control to ensure secure, efficient access to data through warehouses, databases, and schemas.
+- dbt modeling: Built source, staging, and analytics models to transform raw data into fact tables and data marts, supporting departmental analytics needs.
+- Created aggregated tables for reporting, enabling stakeholders to access key metrics and insights for decision-making
+
+**Technology used**: Python, SQL, DBT, Snowflake
 
 ### [Regression of Used Car Prices]
 Overview:
@@ -38,7 +45,7 @@ data for training.
 - Developed and trained a MobileNetV2 model for food classification, achieving good results in
 precision, recall, F1-score, and confusion matrix evaluations.
 
-**Technology used**:
+**Technology used**: tensorflow, keras, matplotlib, pandas, numpy, scikit-learn, mobilenetv2, seaborn 
 
 **Chatbot:**
 - Engineered a chatbot for food-related inquiries, introducing BERT embeddings (BERT-baseIndonesian) to enhance contextual understanding and relevance.
@@ -48,5 +55,9 @@ precise matching and response accuracy.
 scoring for accurate, contextually aware responses.
 - Tested and refined the chatbot model to achieve high accuracy and improve user experience
 across varied queries.
+**Technology used**: ntlk, pickle, numpy, tensorflow, transformers, matplotlib, wordcloud, scikit-learn, lstm
 
-### [Image Gathering web scarping]
+### [Image Gathering web scarping](https://github.com/UhuyDev/Foodricion-ML/tree/main/scraping)
+- Extract data from google image
+
+**Technology used**: Python, beautifulsoup4, selenium

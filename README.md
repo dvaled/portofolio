@@ -3,21 +3,14 @@ Haii I'm Dava Undergraduate Informatics Engineering student with experience in d
 learning models, and data science. Hands-on projects in asset management, data gathering,
 predictive models, image classification, etc
 #
-### [DBT and Snowflake ELT ](https://github.com/dvaled/dbt_snowflake_implementation)
+### [DBT, Snowflake ELT, and Apache Airflow Implementation](https://github.com/dvaled/dbt-snowflake-apache-airflow)
 Overview: The project is organized to handle:
 - **Staging**: Transformation of raw source data to prepare it for analytics.
 - **Data Marts**: Aggregated and curated tables to support business intelligence and reporting.
 - **Testing and Validation**: Custom tests for data quality assurance.
 - **Macros**: Reusable SQL code blocks to standardize calculations and transformations.
 
-**Technology use**: Python, SQL, DBT, Snowflake, 
-
-With this setup, the project enables you to efficiently manage data pipelines, enforce data integrity, and create analytics-ready datasets within Snowflake.
-
-### [Apache Airflow Implementation]
-
-
-**Technology use**: Apache Airflow, docker, Astronomer cosmos, Python,  
+**Technology use**: Python, SQL, DBT, Snowflake, Apache Airflow, Docker, Astronomer cosmos
 
 
 ### [Regression of Used Car Prices]
@@ -36,7 +29,7 @@ ensure robustness and accuracy across test cases
 **Technology use**: Python, Pandas, matplotlib, seaborn, scikit learn, lightgbm, catboost, xgboost.
 
 
-### [Foodricion]
+### [Foodricion](https://github.com/UhuyDev/Foodricion-ML)
 **Image Classification:**
 - Extracted and transformed food image data from various datasets and web sources using
 Selenium and BeautifulSoup, building a robust dataset.
@@ -44,6 +37,8 @@ Selenium and BeautifulSoup, building a robust dataset.
 data for training.
 - Developed and trained a MobileNetV2 model for food classification, achieving good results in
 precision, recall, F1-score, and confusion matrix evaluations.
+
+**Technology used**:
 
 **Chatbot:**
 - Engineered a chatbot for food-related inquiries, introducing BERT embeddings (BERT-baseIndonesian) to enhance contextual understanding and relevance.

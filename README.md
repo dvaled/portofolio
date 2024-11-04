@@ -20,7 +20,7 @@ Overview:
 
 **Technology used**: Python, SQL, DBT, Snowflake
 
-### [Regression of Used Car Prices]
+### [Regression of Used Car Prices](https://www.kaggle.com/code/dvaled/used-car-regression)
 Overview:
 - Engineered a regression model for used car price prediction using gradient boosting algorithms
 (CATBoost, XGBoost, LightGBM) and linear regression to compare performance and accuracy.

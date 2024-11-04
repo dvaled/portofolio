@@ -4,6 +4,8 @@ learning models, and data science. Hands-on projects in asset management, data g
 predictive models, image classification, etc
 #
 ### [DBT, Snowflake ELT, and Apache Airflow Implementation](https://github.com/dvaled/dbt-snowflake-apache-airflow)
+[Documentation](https://dardlearning.notion.site/TPC-H-SF1-dbt-Snowflake-and-Apache-Airflow-Implementation-13486f84f135805c8596eda49df7c6c4?pvs=4)
+
 Overview:
 - Snowflake RBAC, Implemented role-based access control to ensure secure, efficient access to data through warehouses, databases, and schemas.
 - dbt modeling: Built source, staging, and analytics models to transform raw data into fact tables and data marts, supporting departmental analytics needs. 
@@ -13,6 +15,8 @@ Overview:
 **Technology used**: Python, SQL, DBT, Snowflake, Apache Airflow, Docker, Astronomer cosmos
 
 ### [DBT, Snowflake Data transformatin product performance usecase](https://github.com/dvaled/dbt-snowflake-ETL-product-performance-usecase)
+[Documentation](https://dardlearning.notion.site/Bike-Sales-Product-Performance-ETL-use-case-13386f84f13580c285e6d014507c48b4?pvs=4)
+
 Overview:
 - Snowflake RBAC, Implemented role-based access control to ensure secure, efficient access to data through warehouses, databases, and schemas.
 - dbt modeling: Built source, staging, and analytics models to transform raw data into fact tables and data marts, supporting departmental analytics needs.
@@ -37,6 +41,9 @@ ensure robustness and accuracy across test cases
 
 
 ### [Foodricion](https://github.com/UhuyDev/Foodricion-ML)
+[Documentation](https://drive.google.com/file/d/14Tp07YqCIPEFnhSOqnErlvManMGKkKey/view?usp=sharing)
+[Video Demo](https://youtu.be/hvYN90OFGC8)
+
 **Image Classification:**
 - Extracted and transformed food image data from various datasets and web sources using
 Selenium and BeautifulSoup, building a robust dataset.

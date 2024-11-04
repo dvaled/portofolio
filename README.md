@@ -1,4 +1,4 @@
-# portofolio
+# Dava portofolio
 Haii I'm Dava Undergraduate Informatics Engineering student with experience in developing software, machine
 learning models, and data science. Hands-on projects in asset management, data gathering,
 predictive models, image classification, etc

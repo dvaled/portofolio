@@ -62,6 +62,7 @@ precise matching and response accuracy.
 scoring for accurate, contextually aware responses.
 - Tested and refined the chatbot model to achieve high accuracy and improve user experience
 across varied queries.
+
 **Technology used**: ntlk, pickle, numpy, tensorflow, transformers, matplotlib, wordcloud, scikit-learn, lstm
 
 ### [Image Gathering web scarping](https://github.com/UhuyDev/Foodricion-ML/tree/main/scraping)

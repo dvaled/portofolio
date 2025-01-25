@@ -2,6 +2,15 @@
 Haii I'm Dava Undergraduate Informatics Engineering student with experience in developing software, machine
 learning models, and data science. Hands-on projects in asset management, data gathering,
 predictive models, image classification, etc
+
+# Certificate
+- Google Data Analytics (Google Career Certificates)
+- Machine Learning Specialization (DeepLearning.AI, Stanford University)
+- DeepLearning.AI TensorFlow Developer Specialization(DeepLearning.AI)
+- TensorFlow Developer (DeepLearning.AI)
+- TensorFlow: Data and Deployment (DeepLearning.AI)
+- Software Engineering Java Technologies (NIIT)
+
 #
 ### [DBT, Snowflake ELT, and Apache Airflow Implementation](https://github.com/dvaled/dbt-snowflake-apache-airflow)
 [Documentation](https://dardlearning.notion.site/TPC-H-SF1-dbt-Snowflake-and-Apache-Airflow-Implementation-13486f84f135805c8596eda49df7c6c4?pvs=4)

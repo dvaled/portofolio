@@ -3,7 +3,7 @@ Haii I'm Dava Undergraduate Informatics Engineering student with experience in d
 learning models, and data science. Hands-on projects in asset management, data gathering,
 predictive models, image classification, etc
 
-# Certificate
+# Certification
 - Google Data Analytics (Google Career Certificates)
 - Machine Learning Specialization (DeepLearning.AI, Stanford University)
 - DeepLearning.AI TensorFlow Developer Specialization(DeepLearning.AI)

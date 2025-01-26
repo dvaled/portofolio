@@ -5,10 +5,9 @@ predictive models, image classification, etc
 
 # Certification
 - Google Data Analytics [(Google Career Certificates)](https://www.coursera.org/account/accomplishments/specialization/MWFHV5PBA4ST)
-- Machine Learning Specialization (DeepLearning.AI, Stanford University)
-- DeepLearning.AI TensorFlow Developer Specialization(DeepLearning.AI)
-- TensorFlow Developer (DeepLearning.AI)
-- TensorFlow: Data and Deployment (DeepLearning.AI)
+- Machine Learning Specialization [(DeepLearning.AI, Stanford University)](https://www.coursera.org/account/accomplishments/specialization/certificate/3C328FV72VPP)
+- DeepLearning.AI TensorFlow Developer Specialization [(DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/73FG342QT4QU)
+- TensorFlow: Data and Deployment [(DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/PWJVBFRT2MLX)
 - Software Engineering Java Technologies (NIIT)
 
 #

@@ -4,7 +4,7 @@ learning models, and data science. Hands-on projects in asset management, data g
 predictive models, image classification, etc
 
 # Certification
-- Google Data Analytics (Google Career Certificates)
+- Google Data Analytics [(Google Career Certificates)](https://www.coursera.org/account/accomplishments/specialization/MWFHV5PBA4ST)
 - Machine Learning Specialization (DeepLearning.AI, Stanford University)
 - DeepLearning.AI TensorFlow Developer Specialization(DeepLearning.AI)
 - TensorFlow Developer (DeepLearning.AI)

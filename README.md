@@ -8,7 +8,7 @@ predictive models, image classification, etc
 - Machine Learning Specialization [(DeepLearning.AI, Stanford University)](https://www.coursera.org/account/accomplishments/specialization/certificate/3C328FV72VPP)
 - DeepLearning.AI TensorFlow Developer Specialization [(DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/73FG342QT4QU)
 - TensorFlow: Data and Deployment [(DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/PWJVBFRT2MLX)
-- Software Engineering Java Technologies (NIIT)
+- Software Engineering Java Technologies [(NIIT)](https://drive.google.com/file/d/1gZsz8j3PjKTytM6xGYhLxOOCOENiwkSW/view?usp=sharing)
 
 #
 ### [DBT, Snowflake ELT, and Apache Airflow Implementation](https://github.com/dvaled/dbt-snowflake-apache-airflow)
